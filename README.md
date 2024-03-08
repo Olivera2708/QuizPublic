@@ -37,4 +37,4 @@ Two player quiz supports two languages: Serbian and English, ensuring accessibil
 
 - **Engaging Gameplay**: Experience the thrill of one of the best 2-player reaction games, where knowledge and speed are paramount.
 - **Family-Friendly Fun**: Enjoy trivia games with friends and family, stimulating thinking speed and expanding knowledge.
-- **Offline Accessibility**: Duel Quiz is free and works offline, making it the perfect companion for players of all ages, anytime, anywhere.
+- **Offline Accessibility**: Two player quiz is free and works offline, making it the perfect companion for players of all ages, anytime, anywhere.
