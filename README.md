@@ -24,14 +24,14 @@ Experience the excitement of the duel quiz in split-screen mode. Share the fun w
 
 ## Scoring Options
 
-Duel Quiz offers two scoring options for two-player matches:
+Two player quiz offers two scoring options for two-player matches:
 
 - **True/False**: Earn points based on accuracy and speed. React quickly and answer correctly to claim victory.
 - **Points**: Calculate scores based on accuracy and the time remaining. Every second counts in this thrilling challenge.
 
 ## Languages Supported
 
-Duel Quiz supports two languages: Serbian and English, ensuring accessibility and inclusivity for all players.
+Two player quiz supports two languages: Serbian and English, ensuring accessibility and inclusivity for all players.
 
 ## Exciting Features
 
