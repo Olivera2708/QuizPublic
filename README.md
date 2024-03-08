@@ -1,6 +1,6 @@
 # Two player quiz
 
-The ultimate test of wits and knowledge where you can challenge your friends and compete in an exciting duel format! Whether you're looking to outsmart your friends or hone your skills solo, Duel Quiz offers an immersive experience with its diverse range of questions spanning various fields.
+The ultimate test of wits and knowledge where you can challenge your friends and compete in an exciting duel format! Whether you're looking to outsmart your friends or hone your skills solo, Two player quiz offers an immersive experience with its diverse range of questions spanning various fields.
 
 <div align="center">
   <div>
